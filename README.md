@@ -20,14 +20,14 @@ You can read everything about discord's applications on https://discordapp.com/d
 
 > Details: The second line on discord's rich presence module.
 
-Large Image Key: This is the name of the image asset you uploaded to the application. (Example below)
+>Large Image Key: This is the name of the image asset you uploaded to the application. (Example below)
 <img src="https://nullstudios.net/dps3.JPG"> 
 (Once your application is created, you can use the "Upload Resources" button in DPS)
 
-Large Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
+> Large Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
-Small Image Key: This is used the same way as the large icon, but it's the smaller icon in the buttom-right corner of the large image.
+> Small Image Key: This is used the same way as the large icon, but it's the smaller icon in the buttom-right corner of the large image.
 
-Small Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
+> Small Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
-Show Time: This will show how long you've simulated.
+> Show Time: This will show how long you've simulated.
