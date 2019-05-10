@@ -14,11 +14,11 @@ I've tried to make DPS as user friendly as possible, but it still requires a lit
 You can read everything about discord's applications on https://discordapp.com/developer
 
 
-Application ID: The ClientID of your application.
+> Application ID: The ClientID of your application.
 
-State: The third line on discord's rich presence module.
+> State: The third line on discord's rich presence module.
 
-Details: The second line on discord's rich presence module.
+> Details: The second line on discord's rich presence module.
 
 Large Image Key: This is the name of the image asset you uploaded to the application. (Example below)
 <img src="https://nullstudios.net/dps3.JPG"> 
