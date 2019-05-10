@@ -21,8 +21,8 @@ You can read everything about discord's applications on https://discordapp.com/d
 > Details: The second line on discord's rich presence module.
 
 >Large Image Key: This is the name of the image asset you uploaded to the application. (Example below)
-<img src="https://nullstudios.net/dps3.JPG"> 
 (Once your application is created, you can use the "Upload Resources" button in DPS)
+<img src="https://nullstudios.net/dps3.JPG"> 
 
 > Large Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
