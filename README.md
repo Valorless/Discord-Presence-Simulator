@@ -31,3 +31,7 @@ You can read everything about discord's applications on https://discordapp.com/d
 > Small Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
 > Show Time: This will show how long you've simulated.
+
+
+Known Bugs:
+- Status text may show "connected" even if not connected.
