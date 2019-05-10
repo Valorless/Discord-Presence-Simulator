@@ -23,7 +23,7 @@ You can read everything about discord's applications on https://discordapp.com/d
 
 >Large Image Key: This is the name of the image asset you uploaded to the application. (Example below)
 (Once your application is created, you can use the "Upload Resources" button in DPS)
-<img src="https://nullstudios.net/dps3.JPG"> 
+<img src="https://nullstudios.net/dps5.JPG"> 
 
 > Large Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
