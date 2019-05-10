@@ -13,6 +13,7 @@ Once you've done that, the rest of the setup should be easy.
 I've tried to make DPS as user friendly as possible, but it still requires a little bit of knowledge.
 You can read everything about discord's applications on https://discordapp.com/developer
 
+## What is what?
 
 > Application ID: The ClientID of your application.
 
