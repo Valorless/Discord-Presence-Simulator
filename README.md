@@ -6,3 +6,6 @@ It can be literally anything.
 
 <img src="https://nullstudios.net/dps.JPG"> 
 <img src="https://nullstudios.net/dps2.JPG"> 
+
+In order to use DPS, you just first create an application by pressing the "Create Presence" button in DPS.
+Once you've done that, the rest of the setup should be easy.
