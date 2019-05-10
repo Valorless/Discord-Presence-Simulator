@@ -1,4 +1,4 @@
-# Discord-Presence-Simulator
+# Discord-Presence-Simulator (DPS)
 Simulates Discord Presence
 
 DPS will simulate to discord that you're playing a game, but one of which you yourself have set up.
