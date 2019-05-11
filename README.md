@@ -14,7 +14,7 @@ Once you've done that, the rest of the setup should be easy.
 
 I've tried to make DPS as user friendly as possible, but it still requires a little bit of knowledge.
 You can read everything about discord's applications on https://discordapp.com/developer
-
+***
 ## What is what?
 
 > Application ID: The ClientID of your application.
@@ -34,14 +34,16 @@ You can read everything about discord's applications on https://discordapp.com/d
 > Small Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
 > Show Time: This will show how long you've simulated.
-
-
+***
+## Need help?
+Need help with anything? Maybe our [Wiki](https://github.com/Minac2503/Discord-Presence-Simulator/wiki) can help you out.
+***
 ## Known Bugs:
 - Status text may show "connected" even if not connected.
-
+***
 ## Before Full Release (v1.0):
 I plan to to add templates for easy use, with the ability to use a custom presence like you do now.
-
+***
 ## Disclaimer:
 The use of DPS is strictly to be within the range of Discord's [ToS](https://discordapp.com/terms) and [Guidelines](https://discordapp.com/guidelines).
 Not following the ToS and Guidelines may cause your discord account to be suspended by Discord themselves.
