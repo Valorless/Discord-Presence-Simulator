@@ -41,3 +41,8 @@ You can read everything about discord's applications on https://discordapp.com/d
 
 ## Before Full Release (v1.0):
 I plan to to add templates for easy use, with the ability to use a custom presence like you do now.
+
+## Disclaimer:
+The use of DPS is strictly to be used within the range of Discord's [ToS](https://discordapp.com/terms) and [Guidelines](https://discordapp.com/guidelines).
+Not following the ToS and Guidelines may cause your discord account to be suspended by Discord themselves.
+DPS or the creator of DPS is not to be held accountable for your own actions.
