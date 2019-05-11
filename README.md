@@ -39,5 +39,5 @@ You can read everything about discord's applications on https://discordapp.com/d
 ## Known Bugs:
 - Status text may show "connected" even if not connected.
 
-## Before Release:
+## Before Full Release (v1.0):
 I plan to to add templates for easy use, with the ability to use a custom presence like you do now.
