@@ -40,6 +40,7 @@ Need help with anything? Maybe our [Wiki](https://github.com/Minac2503/Discord-P
 ***
 ## Known Bugs:
 - Status text may show "connected" even if not connected.
+- DPS's fake presence may clash with any other program's presence. (Example: You'll see what DPS is showing, but others will see the real game/application)
 ***
 ## Before Full Release (v1.0):
 I plan to to add templates for easy use, with the ability to use a custom presence like you do now.
