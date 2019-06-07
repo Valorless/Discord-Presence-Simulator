@@ -1,7 +1,7 @@
 # Discord-Presence-Simulator (DPS)
 Simulates Discord Presence
 
-Current Version: 0.4
+Current Version: 0.5
 
 DPS will simulate to discord that you're playing a game, but one of which you yourself have set up.
 It can be literally anything.
