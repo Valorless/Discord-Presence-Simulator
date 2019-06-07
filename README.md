@@ -34,6 +34,8 @@ You can read everything about discord's applications on https://discordapp.com/d
 > Small Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
 > Show Time: This will show how long you've simulated.
+
+> Auto Connect: Automatically connects to discord on application start.
 ***
 ## Need help?
 Need help with anything? Maybe our [Wiki](https://github.com/Minac2503/Discord-Presence-Simulator/wiki) can help you out.
