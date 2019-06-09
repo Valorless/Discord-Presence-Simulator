@@ -2,6 +2,7 @@
 Simulates Discord Presence
 
 Current Version: 0.5
+[Update Log](https://github.com/Minac2503/Discord-Presence-Simulator/blob/master/UpdateLog.md)
 
 DPS will simulate to discord that you're playing a game, but one of which you yourself have set up.
 It can be literally anything.
