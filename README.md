@@ -7,8 +7,8 @@ Current Version: 0.5
 DPS will simulate to discord that you're playing a game, but one of which you yourself have set up.
 It can be literally anything.
 
-<img src="https://nullstudios.net/dps.JPG"> <img src="https://nullstudios.net/dps4.JPG"> 
-<img src="https://nullstudios.net/dps2.JPG"> 
+<img src="https://netherrain.net/dps.JPG"> <img src="https://netherrain.net/dps4.JPG"> 
+<img src="https://netherrain.net/dps2.JPG"> 
 
 In order to use DPS, you just first create an application by pressing the "Create Presence" button in DPS.
 Once you've done that, the rest of the setup should be easy.
@@ -26,7 +26,7 @@ You can read everything about discord's applications on https://discordapp.com/d
 
 >Large Image Key: This is the name of the image asset you uploaded to the application. (Example below)
 (Once your application is created, you can use the "Upload Resources" button in DPS)
-<img src="https://nullstudios.net/dps5.JPG"> 
+<img src="https://netherrain.net/dps5.JPG"> 
 
 > Large Image Text: This is the text which will appear on discord, when you hover the mouse over the icon.
 
